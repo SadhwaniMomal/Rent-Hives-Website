@@ -212,7 +212,7 @@
 
   .carousel-caption h1,
   .carousel-caption h2 {
-    font-size: 35pt; /* Adjusted font size for mobile */
+    font-size: 35px; /* Adjusted font size for mobile */
   }
 }
 
