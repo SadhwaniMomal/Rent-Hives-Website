@@ -200,7 +200,7 @@
 }
 
 /* CSS for mobile */
-@media (max-width: 768px) {
+@media (max-width: 992px) {
   .carousel-caption {
     /* border: 2px solid; */
     width: 100%;
