@@ -750,8 +750,8 @@
   transition: max-height 0.4s ease;
 }
 .accordion-body {
-  background: #dc9c2a;
-  color: white;
+  background: #cac5bc;
+  color: rgb(6, 6, 6);
 }
 
 .accordion-header button {
